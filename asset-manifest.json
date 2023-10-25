@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/backendless-burzhi/static/css/main.073c9b0a.css",
-    "main.js": "/backendless-burzhi/static/js/main.1345be5c.js",
+    "main.js": "/backendless-burzhi/static/js/main.fb548712.js",
     "static/js/449.f3854717.chunk.js": "/backendless-burzhi/static/js/449.f3854717.chunk.js",
     "static/js/100.22401e2b.chunk.js": "/backendless-burzhi/static/js/100.22401e2b.chunk.js",
     "static/js/511.9d0f6486.chunk.js": "/backendless-burzhi/static/js/511.9d0f6486.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/logo.svg": "/backendless-burzhi/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/backendless-burzhi/index.html",
     "main.073c9b0a.css.map": "/backendless-burzhi/static/css/main.073c9b0a.css.map",
-    "main.1345be5c.js.map": "/backendless-burzhi/static/js/main.1345be5c.js.map",
+    "main.fb548712.js.map": "/backendless-burzhi/static/js/main.fb548712.js.map",
     "449.f3854717.chunk.js.map": "/backendless-burzhi/static/js/449.f3854717.chunk.js.map",
     "888.2cf75728.chunk.js.map": "/backendless-burzhi/static/js/888.2cf75728.chunk.js.map",
     "273.af852584.chunk.js.map": "/backendless-burzhi/static/js/273.af852584.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1345be5c.js"
+    "static/js/main.fb548712.js"
   ]
 }
