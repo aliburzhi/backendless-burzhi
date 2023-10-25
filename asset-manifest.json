@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/backendless-burzhi.git/static/css/main.073c9b0a.css",
+    "main.js": "/backendless-burzhi.git/static/js/main.0a1c627e.js",
+    "static/js/449.f3854717.chunk.js": "/backendless-burzhi.git/static/js/449.f3854717.chunk.js",
+    "static/js/100.22401e2b.chunk.js": "/backendless-burzhi.git/static/js/100.22401e2b.chunk.js",
+    "static/js/511.9d0f6486.chunk.js": "/backendless-burzhi.git/static/js/511.9d0f6486.chunk.js",
+    "static/js/888.2cf75728.chunk.js": "/backendless-burzhi.git/static/js/888.2cf75728.chunk.js",
+    "static/js/273.af852584.chunk.js": "/backendless-burzhi.git/static/js/273.af852584.chunk.js",
+    "static/js/432.68175bf4.chunk.js": "/backendless-burzhi.git/static/js/432.68175bf4.chunk.js",
+    "static/js/787.3c8ade4e.chunk.js": "/backendless-burzhi.git/static/js/787.3c8ade4e.chunk.js",
+    "static/js/930.d3f29d11.chunk.js": "/backendless-burzhi.git/static/js/930.d3f29d11.chunk.js",
+    "static/js/89.36cc18dc.chunk.js": "/backendless-burzhi.git/static/js/89.36cc18dc.chunk.js",
+    "static/js/607.d9f19dab.chunk.js": "/backendless-burzhi.git/static/js/607.d9f19dab.chunk.js",
+    "static/media/index.cjs": "/backendless-burzhi.git/static/media/index.87283f34b94ab8669cb4.cjs",
+    "static/media/logo.svg": "/backendless-burzhi.git/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/backendless-burzhi.git/index.html",
+    "main.073c9b0a.css.map": "/backendless-burzhi.git/static/css/main.073c9b0a.css.map",
+    "main.0a1c627e.js.map": "/backendless-burzhi.git/static/js/main.0a1c627e.js.map",
+    "449.f3854717.chunk.js.map": "/backendless-burzhi.git/static/js/449.f3854717.chunk.js.map",
+    "888.2cf75728.chunk.js.map": "/backendless-burzhi.git/static/js/888.2cf75728.chunk.js.map",
+    "273.af852584.chunk.js.map": "/backendless-burzhi.git/static/js/273.af852584.chunk.js.map",
+    "432.68175bf4.chunk.js.map": "/backendless-burzhi.git/static/js/432.68175bf4.chunk.js.map",
+    "787.3c8ade4e.chunk.js.map": "/backendless-burzhi.git/static/js/787.3c8ade4e.chunk.js.map",
+    "930.d3f29d11.chunk.js.map": "/backendless-burzhi.git/static/js/930.d3f29d11.chunk.js.map",
+    "89.36cc18dc.chunk.js.map": "/backendless-burzhi.git/static/js/89.36cc18dc.chunk.js.map",
+    "607.d9f19dab.chunk.js.map": "/backendless-burzhi.git/static/js/607.d9f19dab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a1c627e.js"
+  ]
+}

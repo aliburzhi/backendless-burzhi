@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbackendless_test_burzhi_ali=self.webpackChunkbackendless_test_burzhi_ali||[]).push([[432],{69432:function(e,s,t){t.r(s);var l=t(80184);s.default=function(){return(0,l.jsx)("table",{children:(0,l.jsx)("tbody",{children:(0,l.jsxs)("tr",{children:[(0,l.jsx)("td",{children:"Dummy"}),(0,l.jsx)("td",{children:"Table"})]})})})}}}]);
+//# sourceMappingURL=432.68175bf4.chunk.js.map
