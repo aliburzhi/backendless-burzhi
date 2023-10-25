@@ -16,7 +16,6 @@ function RoutesComponent() {
 			})
 			.then(data => setTabs(data))
 			.catch(error => console.error('Error', error));
-
 	}, []);
 
 	useEffect(() => {
