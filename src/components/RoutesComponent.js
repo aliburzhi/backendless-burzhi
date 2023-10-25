@@ -7,9 +7,16 @@ function RoutesComponent() {
 	const navigate = useNavigate();
 
 	useEffect(() => {
-		fetch('/tabs.json')
-			.then(response => response.json())
-			.then(data => setTabs(data));
+		fetch(process.env.PUBLIC_URL + '/tabs.json')
+			.then(response => {
+				if (!response.ok) {
+					throw new Error('Network response error' + response.statusText);
+				}
+				return response.json();
+			})
+			.then(data => setTabs(data))
+			.catch(error => console.error('Error', error));
+
 	}, []);
 
 	useEffect(() => {
